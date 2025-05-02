@@ -45,4 +45,5 @@ Los datos se obtienen directamente desde el repositorio oficial de [Alura - Chal
 - Gráficos detallados para visualizar el rendimiento de cada tienda a lo largo del tiempo.
 
 🧑‍💻 Autor
+
 Proyecto desarrollado en el marco del Challenge de Data Science de Alura LATAM.
